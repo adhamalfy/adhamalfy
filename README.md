@@ -1,6 +1,6 @@
-<p align="center">
+
   <img src="https://github.com/user-attachments/assets/d34280e4-6409-4c88-8ed9-1714d6e38e19" width="200" height="200" alt="adham elalfy"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Adham Elalfy</h1>
 <h3 align="center">A Front end developer</h3>
