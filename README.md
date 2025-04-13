@@ -80,4 +80,4 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?adhamalfy=DenverCoder1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adhamalfy&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
