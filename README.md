@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=mahmoudelsayed69&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsayed69" /> 
 </p>
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently working on **dr ai**
 
 - 💬 Ask me about **html, css, js, sass, react js, tailwind, bootstrap**
 
