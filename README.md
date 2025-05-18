@@ -8,7 +8,7 @@
 <h3 align="center">A Front end developer</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mahmoudelsayed69&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsayed69" /> 
+  <img src="https://komarev.com/ghpvc/?username=mahmoudelsayed69&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsayed69" />
 </p>
 
 - 🌱 I’m currently working on **dr ai**
