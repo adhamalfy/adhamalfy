@@ -1,5 +1,5 @@
 <p align="center">
-  < src="https://github.com/user-attachments/assets/d34280e4-6409-4c88-8ed9-1714d6e38e19"  alt="adham elaalfyy"/>
+  <img src="https://github.com/user-attachments/assets/d34280e4-6409-4c88-8ed9-1714d6e38e19"  alt="adham elaalfyy"/>
 </p>
 
 
@@ -8,7 +8,7 @@
 <h3 align="center">A Front end developer</h3>
 
 <p align="left"> 
-  < src="https://komarev.com/ghpvc/?username=mahmoudelsayed69&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsayed69" />
+  < img src="https://komarev.com/ghpvc/?username=mahmoudelsayed69&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsayed69" />
 </p>
 
 - 🌱 I’m currently working on **dr ai**
