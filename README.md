@@ -7,9 +7,7 @@
 <h1 align="center">Hi 👋, I'm Adham Elalfy</h1>
 <h3 align="center">A Front end developer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mahmoudelsayed69&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelsayed69" />
-</>
+
 
 - 🌱 I’m currently working on **dr ai**
 
